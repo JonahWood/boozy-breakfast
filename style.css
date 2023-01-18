@@ -1,0 +1,41 @@
+.hero{
+    height: 55vh;
+    align-items: flex-end;
+    justify-content: center;
+
+    background: url(wood.jpg) no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: top left;
+}
+
+body{
+    background-color: antiquewhite;
+}
+
+.header-links{
+    size: 2em;
+}
+
+.second-block{
+    background-color: #191919;
+}
+
+.slim{
+    background-color: antiquewhite;
+    height: 1vh;
+}
+
+.slom{
+    background-color: antiquewhite;
+    height: 8vh;
+}
+
+.antique-lighter{
+    background-color: #fffdf9;
+}
+
+.slim-2{
+    background-color: #fffdf9;
+    height: 1vh;
+}
